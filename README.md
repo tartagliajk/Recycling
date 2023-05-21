@@ -48,7 +48,11 @@ https://learn.microsoft.com/en-us/visualstudio/install/install-visual-studio?vie
 ______
 ### Screenshots 📸
 <p align = "center">
-  
+  <img src = "https://github.com/tartagliajk/Recycling/blob/main/readmeImg/startup.jpg" alt = "Start up screen" height = "400px">
+  <br>
+  <img src = "https://github.com/tartagliajk/Recycling/blob/main/readmeImg/createtrashcan.jpg" alt = "Create trash can" height = "400px">
+  <br>
+  <img src = "https://github.com/tartagliajk/Recycling/blob/main/readmeImg/trueorfalse.jpg" alt = "True or False" height = "400px">
 </p>
 
 ______
