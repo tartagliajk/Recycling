@@ -1,14 +1,14 @@
 # ​🇷​​🇪​​🇨​​🇾​​🇨​​🇱​​🇮​​🇳​​🇬 ♻️
 ## Navigation 📍
-- [Project Description]()
+- [Project Description](https://github.com/tartagliajk/Recycling/tree/main#project-description-)
 
-- [File explanations]()
+- [File explanations](https://github.com/tartagliajk/Recycling/tree/main#file-explanations-)
 
-- [Installation]()
+- [Installation](https://github.com/tartagliajk/Recycling/tree/main#installation-%EF%B8%8F)
 
-- [Mod/Customise files]()
+- [Mod/Customise files](https://github.com/tartagliajk/Recycling/tree/main#modcustomise-files-%EF%B8%8F)
 
-- [Screenshoots]()
+- [Screenshoots](https://github.com/tartagliajk/Recycling/tree/main#screenshots-)
 _____
 ### Project Description 📚
 A school project using objects and I decided to make a game about recycling target to kids. 
