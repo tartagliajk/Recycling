@@ -52,7 +52,7 @@ ______
   <br>
   <img src = "https://github.com/tartagliajk/Recycling/blob/main/readmeImg/createtrashcan.jpg" alt = "Create trash can" height = "400px">
   <br>
-  <img src = "https://github.com/tartagliajk/Recycling/blob/main/readmeImg/trueorfalse.jpg" alt = "True or False" height = "400px">
+  <img src = "https://github.com/tartagliajk/Recycling/blob/main/readmeImg/tof.jpg" alt = "True or False" height = "400px">
 </p>
 
 ______
